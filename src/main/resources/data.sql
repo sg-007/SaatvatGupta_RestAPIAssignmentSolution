@@ -1,0 +1,10 @@
+insert into employee values(1, 'a@b.com', 'a', 'k');
+insert into employee values(2, 'hello@globe.com', 'b', 'l');
+insert into employee values(3, 'hello@goa.com', 'c', 'm');
+insert into employee values(4, 'bango@world.com', 'h', 'n');
+insert into employee values(5, 'hello@mpc.com', 'hello', 'o');
+insert into employee values(6, 'vfx@world.com', 'f', 'p');
+insert into employee values(7, 'dico@gone.com', 'hello', 'q');
+insert into employee values(8, 'miss@hello.com', 'h', 'r');
+insert into employee values(9, 'gone@dead.com', 'i', 's');
+insert into employee values(10, 'mill@mikros.com', 'j', 't');
