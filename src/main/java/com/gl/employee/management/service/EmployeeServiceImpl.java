@@ -53,7 +53,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 		Sort sort = null;
 		if (order.equalsIgnoreCase("asc"))
 			sort = Sort.by("firstName").ascending();
-		else if (order.equalsIgnoreCase("desc"))
+		else
 			sort = Sort.by("firstName").descending();
 		return employeeRepository.findAll(sort);
 	}
